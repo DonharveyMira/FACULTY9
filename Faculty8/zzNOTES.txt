@@ -1,0 +1,11 @@
+TO-DOS:
+
+PATIENT FORM 
+- BAWASAN MGA COLUMN 
+-  BIRTHDAY GAWING DATE KUNG KAILAN NAG CHECKUP
+
+--
+#lagyan ng logoutt button (login sa patient)
+
+logout button for PATIENT LOGIN
+CHANGE HIGH BPM NOTE IF LOWER THAN 100 BPM
